@@ -5,8 +5,10 @@
 ```sudo su```
 ## python faylını yükləyirik
 ```wget https://raw.githubusercontent.com/obscur95/gns3-server/master/IOU/CiscoIOUKeygen.py```
+
 ## Fayla icazə veririk
 ```chmod +x CiscoIOUKeygen.py ```
+
 ## python faylını işə salırıq
 ``` python3 CiscoIOUKeygen.py ``` 
 
