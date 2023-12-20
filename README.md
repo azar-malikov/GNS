@@ -1,6 +1,6 @@
 # GNS
 
-Əmrlər:/n
+Əmrlər:
 ## Root oluruq
 ```sudo su```
 ## python faylını yükləyirik
