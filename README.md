@@ -1,6 +1,6 @@
 # GNS
 
-Əmrlər:
+Əmrlər:/n
 *root oluruq*
 `sudo su`
 `wget https://raw.githubusercontent.com/obscur95/gns3-server/master/IOU/CiscoIOUKeygen.py`
