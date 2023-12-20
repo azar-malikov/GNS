@@ -1,7 +1,7 @@
 # GNS
 
 Əmrlər:
-!root oluruq!
+*root oluruq*
 `sudo su`
 `wget https://raw.githubusercontent.com/obscur95/gns3-server/master/IOU/CiscoIOUKeygen.py`
 $ python3 CiscoIOUKeygen.py 
